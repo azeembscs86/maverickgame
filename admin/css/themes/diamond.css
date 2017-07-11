@@ -1,0 +1,138 @@
+/*
+ *  Document   : diamond.css
+ *  Author     : pixelcave
+ *  Description: #4fbfbd #58d2d0 #4ab0ae -THEME DIAMOND
+ *
+ */
+
+.daterangepicker .ranges li,
+#top-search input[type=text],
+a,
+a:hover,
+a:active,
+a:focus,
+.plan-featured h1,
+.themed-color {
+    color: #4fbfbd;
+}
+
+.fc-cell-overlay,
+.fc-state-hover,
+.fc-state-hover .fc-button-inner,
+.fc-state-down,
+.fc-state-down .fc-button-inner,
+.fc-state-active,
+.fc-state-active .fc-button-inner,
+.fc-event,
+.daterangepicker .ranges li.active,
+.daterangepicker .ranges li:hover,
+.daterangepicker td.active,
+.daterangepicker td.active:hover,
+.datepicker td.active,
+.datepicker td.active:hover,
+.datepicker td.active:hover,
+.datepicker td.active:hover:hover,
+.datepicker td.active:focus,
+.datepicker td.active:hover:focus,
+.datepicker td.active:active,
+.datepicker td.active:hover:active,
+.datepicker td.active.active,
+.datepicker td.active:hover.active,
+.datepicker td.active.disabled,
+.datepicker td.active:hover.disabled,
+.datepicker td.active[disabled],
+.datepicker td.active:hover[disabled],
+.datepicker td span.active,
+.datepicker td span.active:hover,
+.datepicker td span.active:focus,
+.datepicker td span.active:active,
+.datepicker td span.active.active,
+.datepicker td span.active.disabled,
+.datepicker td span.active[disabled],
+.datepicker td span.active:active,
+.datepicker td span.active.active,
+.bootstrap-timepicker-widget table td a:hover,
+.chzn-container .chzn-results .highlighted,
+.jqvmap-zoomin:hover, .jqvmap-zoomout:hover,
+#primary-nav li a.active,
+#primary-nav li > ul a.active:hover,
+.block.block-themed > .block-title,
+.block-tabs.block-themed > .nav-tabs,
+.tile-themed,
+#to-top:hover,
+.fc-external-event,
+.wizard-steps .wizard-step.active,
+.plan-featured h2,
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover,
+.nav-pills > .active > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > span,
+.modal-header,
+.carousel-control,
+.table th,
+.table-bordered thead th,
+.popover-title,
+.themed-background {
+    background-color: #58d2d0;
+}
+
+.navbar-inverse .navbar-inner {
+    background-color: #4ab0ae;
+}
+
+.datepicker td.active:active,
+.datepicker td.active:hover:active,
+.datepicker td.active.active,
+.datepicker td.active:hover.active {
+    background-color: #58d2d0 \9;
+}
+
+.fc-state-hover,
+.fc-state-hover .fc-button-inner,
+.fc-state-down,
+.fc-state-down .fc-button-inner,
+.fc-state-active,
+.fc-state-active .fc-button-inner,
+.fc-event,
+.block.block-themed > .block-content,
+.block.block-themed > .block-content-flat,
+.block-tabs.block-themed,
+.gallery a:hover img,
+.gallery-image:hover img,
+a[data-toggle="lightbox-image"]:hover img,
+.error-container,
+.plan-featured,
+.dropdown-menu,
+.navbar-inverse .dropdown-menu,
+.pagination ul > .active > a,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > span,
+.modal,
+.carousel,
+.table-bordered,
+.popover,
+.themed-border {
+    border-color: #58d2d0;
+}
+
+.popover.top .arrow,
+.popover.top .arrow:after {
+    border-top-color: #58d2d0;
+}
+
+.popover.right .arrow,
+.popover.right .arrow:after {
+    border-right-color: #58d2d0;
+}
+
+.popover.bottom .arrow,
+.popover.bottom .arrow:after {
+    border-bottom-color: #58d2d0;
+}
+
+.popover.left .arrow,
+.popover.left .arrow:after {
+    border-left-color: #58d2d0;
+}

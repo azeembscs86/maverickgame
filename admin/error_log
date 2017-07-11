@@ -1,0 +1,33 @@
+[05-Oct-2015 03:43:01 CST6CDT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'maverickgame'@'localhost' (using password: NO) in /home/maverickgame/public_html/admin/edit-reward-store.php on line 55
+[05-Oct-2015 03:43:01 CST6CDT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/maverickgame/public_html/admin/edit-reward-store.php on line 55
+[05-Oct-2015 03:43:01 CST6CDT] PHP Fatal error:  Call to undefined function getRewardById() in /home/maverickgame/public_html/admin/edit-reward-store.php on line 56
+[05-Oct-2015 07:23:22 CST6CDT] PHP Notice:  Undefined index: reward_name in /home/maverickgame/public_html/admin/addnewreward.php on line 4
+[05-Oct-2015 07:23:22 CST6CDT] PHP Notice:  Undefined index: reward_price in /home/maverickgame/public_html/admin/addnewreward.php on line 5
+[05-Oct-2015 07:23:22 CST6CDT] PHP Notice:  Undefined index: reward_description in /home/maverickgame/public_html/admin/addnewreward.php on line 6
+[05-Oct-2015 07:23:22 CST6CDT] PHP Notice:  Undefined index: reward_image in /home/maverickgame/public_html/admin/addnewreward.php on line 7
+[05-Oct-2015 07:23:22 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maverickgame/public_html/admin/addnewreward.php:4) in /home/maverickgame/public_html/admin/addnewreward.php on line 13
+[05-Oct-2015 07:23:38 CST6CDT] PHP Notice:  Undefined index: reward_name in /home/maverickgame/public_html/admin/addnewreward.php on line 4
+[05-Oct-2015 07:23:38 CST6CDT] PHP Notice:  Undefined index: reward_price in /home/maverickgame/public_html/admin/addnewreward.php on line 5
+[05-Oct-2015 07:23:38 CST6CDT] PHP Notice:  Undefined index: reward_description in /home/maverickgame/public_html/admin/addnewreward.php on line 6
+[05-Oct-2015 07:23:38 CST6CDT] PHP Notice:  Undefined index: reward_image in /home/maverickgame/public_html/admin/addnewreward.php on line 7
+[05-Oct-2015 07:23:38 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maverickgame/public_html/admin/addnewreward.php:4) in /home/maverickgame/public_html/admin/addnewreward.php on line 13
+[05-Oct-2015 07:57:23 CST6CDT] PHP Fatal error:  Call to undefined function getAllMaverickRewards() in /home/maverickgame/public_html/admin/maverick-rewards.php on line 106
+[06-Oct-2015 07:37:04 CST6CDT] PHP Fatal error:  Call to undefined function getAllMaverickRewards() in /home/maverickgame/public_html/admin/maverick-rewards.php on line 106
+[15-Oct-2015 06:42:19 CST6CDT] PHP Warning:  mysql_connect(): Access denied for user 'maverick_hatsil'@'localhost' (using password: YES) in /home/maverickgame/public_html/admin/dbconnection.php on line 8
+[15-Oct-2015 07:11:07 CST6CDT] PHP Fatal error:  Call to undefined function getAllMaverickRewards() in /home/maverickgame/public_html/admin/maverick-rewards.php on line 106
+[19-Oct-2015 01:09:53 CST6CDT] PHP Fatal error:  Call to undefined function deleteUsedScratchCard() in /home/maverickgame/public_html/admin/delete-scratch_card.php on line 5
+[19-Oct-2015 01:12:20 CST6CDT] PHP Notice:  Undefined variable: id in /home/maverickgame/public_html/admin/delete-scratch_card.php on line 7
+[22-Oct-2015 13:21:59 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/admin/doadminlogin.php on line 4
+[22-Oct-2015 13:21:59 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/admin/doadminlogin.php on line 5
+[22-Oct-2015 13:21:59 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maverickgame/public_html/admin/doadminlogin.php:4) in /home/maverickgame/public_html/admin/doadminlogin.php on line 31
+[22-Oct-2015 13:22:01 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/admin/doadminlogin.php on line 4
+[22-Oct-2015 13:22:01 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/admin/doadminlogin.php on line 5
+[22-Oct-2015 13:22:01 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maverickgame/public_html/admin/doadminlogin.php:4) in /home/maverickgame/public_html/admin/doadminlogin.php on line 31
+[22-Oct-2015 13:22:33 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/admin/forgotpassword.php on line 4
+[22-Oct-2015 13:22:33 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/maverickgame/public_html/admin/forgotpassword.php on line 6
+[22-Oct-2015 13:22:33 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/maverickgame/public_html/admin/forgotpassword.php on line 6
+[22-Oct-2015 13:22:34 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/maverickgame/public_html/admin/forgotpassword.php on line 6
+[22-Oct-2015 13:22:35 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/admin/forgotpassword.php on line 4
+[22-Oct-2015 13:22:35 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/maverickgame/public_html/admin/forgotpassword.php on line 6
+[22-Oct-2015 13:22:36 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/maverickgame/public_html/admin/forgotpassword.php on line 6
+[22-Oct-2015 13:22:38 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/maverickgame/public_html/admin/forgotpassword.php on line 6

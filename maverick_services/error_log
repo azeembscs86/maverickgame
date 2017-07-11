@@ -1,0 +1,255 @@
+[21-Aug-2015 01:41:41 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[21-Aug-2015 01:41:41 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_login.php on line 6
+[21-Aug-2015 01:41:41 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 7
+[21-Aug-2015 01:41:41 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 9
+[21-Aug-2015 01:41:41 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 29
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/user_register.php on line 4
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_register.php on line 5
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: username in /home/maverickgame/public_html/maverick_services/user_register.php on line 6
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_register.php on line 7
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/user_register.php on line 8
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: gender in /home/maverickgame/public_html/maverick_services/user_register.php on line 9
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: location in /home/maverickgame/public_html/maverick_services/user_register.php on line 10
+[21-Aug-2015 01:42:59 CST6CDT] PHP Notice:  Undefined index: birthday in /home/maverickgame/public_html/maverick_services/user_register.php on line 11
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/user_register.php on line 4
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_register.php on line 5
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: username in /home/maverickgame/public_html/maverick_services/user_register.php on line 6
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_register.php on line 7
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/user_register.php on line 8
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: gender in /home/maverickgame/public_html/maverick_services/user_register.php on line 9
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: location in /home/maverickgame/public_html/maverick_services/user_register.php on line 10
+[21-Aug-2015 01:43:55 CST6CDT] PHP Notice:  Undefined index: birthday in /home/maverickgame/public_html/maverick_services/user_register.php on line 11
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/user_register.php on line 4
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_register.php on line 5
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: username in /home/maverickgame/public_html/maverick_services/user_register.php on line 6
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_register.php on line 7
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/user_register.php on line 8
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: gender in /home/maverickgame/public_html/maverick_services/user_register.php on line 9
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: location in /home/maverickgame/public_html/maverick_services/user_register.php on line 10
+[21-Aug-2015 02:01:16 CST6CDT] PHP Notice:  Undefined index: birthday in /home/maverickgame/public_html/maverick_services/user_register.php on line 11
+[21-Aug-2015 02:39:33 CST6CDT] PHP Notice:  Undefined index: android_app in /home/maverickgame/public_html/maverick_services/user_register.php on line 12
+[21-Aug-2015 02:40:02 CST6CDT] PHP Notice:  Undefined index: android_app in /home/maverickgame/public_html/maverick_services/user_register.php on line 12
+[21-Aug-2015 02:40:30 CST6CDT] PHP Notice:  Undefined index: android_app in /home/maverickgame/public_html/maverick_services/user_register.php on line 12
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/user_register.php on line 4
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_register.php on line 5
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: username in /home/maverickgame/public_html/maverick_services/user_register.php on line 6
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_register.php on line 7
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/user_register.php on line 8
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: gender in /home/maverickgame/public_html/maverick_services/user_register.php on line 9
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: location in /home/maverickgame/public_html/maverick_services/user_register.php on line 10
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: birthday in /home/maverickgame/public_html/maverick_services/user_register.php on line 11
+[21-Aug-2015 02:41:08 CST6CDT] PHP Notice:  Undefined index: android_app in /home/maverickgame/public_html/maverick_services/user_register.php on line 12
+[21-Aug-2015 02:57:03 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[21-Aug-2015 02:57:03 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 7
+[21-Aug-2015 02:57:03 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 9
+[21-Aug-2015 02:57:03 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 29
+[21-Aug-2015 02:59:10 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[21-Aug-2015 02:59:10 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 7
+[21-Aug-2015 02:59:10 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 9
+[21-Aug-2015 02:59:10 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 29
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/user_register.php on line 4
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_register.php on line 5
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: username in /home/maverickgame/public_html/maverick_services/user_register.php on line 6
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_register.php on line 7
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/user_register.php on line 8
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: gender in /home/maverickgame/public_html/maverick_services/user_register.php on line 9
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: location in /home/maverickgame/public_html/maverick_services/user_register.php on line 10
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: birthday in /home/maverickgame/public_html/maverick_services/user_register.php on line 11
+[21-Aug-2015 04:05:37 CST6CDT] PHP Notice:  Undefined index: android_app in /home/maverickgame/public_html/maverick_services/user_register.php on line 12
+[21-Aug-2015 04:10:31 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 7
+[21-Aug-2015 04:10:31 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 9
+[21-Aug-2015 04:10:31 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 29
+[21-Aug-2015 04:12:33 CST6CDT] PHP Notice:  Undefined variable: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 7
+[21-Aug-2015 04:14:12 CST6CDT] PHP Notice:  Undefined index: registered in /home/maverickgame/public_html/maverick_services/user_login.php on line 16
+[21-Aug-2015 04:14:42 CST6CDT] PHP Notice:  Undefined index: registered in /home/maverickgame/public_html/maverick_services/user_login.php on line 16
+[21-Aug-2015 05:24:25 CST6CDT] PHP Notice:  Undefined variable: row in /home/maverickgame/public_html/maverick_services/forget_password.php on line 15
+[21-Aug-2015 05:25:14 CST6CDT] PHP Notice:  Undefined variable: row in /home/maverickgame/public_html/maverick_services/forget_password.php on line 15
+[21-Aug-2015 06:52:24 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 06:52:30 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 06:52:34 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 06:56:17 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 06:56:27 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 06:57:58 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 06:58:40 CST6CDT] PHP Notice:  Undefined index: pas in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 5
+[21-Aug-2015 07:01:50 CST6CDT] PHP Fatal error:  Call to undefined function updateAppUserPassword() in /home/maverickgame/public_html/maverick_services/forgot-code.php on line 8
+[21-Aug-2015 07:03:44 CST6CDT] PHP Notice:  Undefined variable: new_password in /home/maverickgame/public_html/dbconnection.php on line 150
+[21-Aug-2015 07:03:44 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/maverickgame/public_html/dbconnection.php on line 150
+[21-Aug-2015 07:03:56 CST6CDT] PHP Notice:  Undefined variable: new_password in /home/maverickgame/public_html/dbconnection.php on line 150
+[21-Aug-2015 07:03:56 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/maverickgame/public_html/dbconnection.php on line 150
+[21-Aug-2015 07:04:57 CST6CDT] PHP Notice:  Undefined variable: new_password in /home/maverickgame/public_html/dbconnection.php on line 150
+[21-Aug-2015 07:04:57 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/maverickgame/public_html/dbconnection.php on line 150
+[04-Sep-2015 00:40:47 CST6CDT] PHP Notice:  Undefined index: user_id in /home/maverickgame/public_html/maverick_services/user_profile.php on line 5
+[04-Sep-2015 02:35:02 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[04-Sep-2015 02:35:02 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_login.php on line 6
+[04-Sep-2015 02:35:33 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[04-Sep-2015 02:35:33 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_login.php on line 6
+[04-Sep-2015 07:11:57 CST6CDT] PHP Notice:  Undefined index: user_id in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 5
+[04-Sep-2015 07:11:57 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[04-Sep-2015 07:11:57 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[04-Sep-2015 07:11:57 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[04-Sep-2015 07:11:57 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[04-Sep-2015 07:54:49 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[04-Sep-2015 07:54:49 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[04-Sep-2015 07:54:49 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[04-Sep-2015 07:58:57 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[04-Sep-2015 07:59:51 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[04-Sep-2015 08:00:29 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[04-Sep-2015 08:02:56 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[04-Sep-2015 08:03:24 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[04-Sep-2015 08:04:37 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[04-Sep-2015 08:06:00 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 04:56:27 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 04:57:06 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 04:57:25 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 04:58:11 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 05:01:52 CST6CDT] PHP Warning:  file_get_contents(http://www.maverickgame.com/user_images/iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 05:25:44 CST6CDT] PHP Warning:  file_get_contents(iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: No such file or directory in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 05:28:56 CST6CDT] PHP Warning:  file_get_contents(iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: No such file or directory in /home/maverickgame/public_html/maverick_services/user_profile.php on line 13
+[07-Sep-2015 05:29:37 CST6CDT] PHP Warning:  file_get_contents(iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: No such file or directory in /home/maverickgame/public_html/maverick_services/user_profile.php on line 11
+[07-Sep-2015 05:30:56 CST6CDT] PHP Warning:  file_get_contents(iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: No such file or directory in /home/maverickgame/public_html/maverick_services/user_profile.php on line 10
+[07-Sep-2015 05:32:23 CST6CDT] PHP Warning:  file_get_contents(iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: No such file or directory in /home/maverickgame/public_html/maverick_services/user_profile.php on line 14
+[07-Sep-2015 05:32:29 CST6CDT] PHP Warning:  file_get_contents(iVBORw0KGgoAAAANSUhEUgAAAtAAAAPACAIAAACTlNnkAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nOy925IkOZIspmqAR1b1DveIHAofKPwE/v//8IFPZ2VnerqqMiPCYaZ8MACO8MianVnuZXo38NAd
+5ekOx80BMzU1M0rCq7zKq/wXLZJIAgDi+NgZAKCa15fbDQC4501rNcsVBwCUUb2MFgoAJCUHQAQA
+9doCgKIAIJokM4sIkp9uPgGZ): failed to open stream: No such file or directory in /home/maverickgame/public_html/maverick_services/user_profile.php on line 14
+[07-Sep-2015 05:33:42 CST6CDT] PHP Notice:  Undefined variable: base64 in /home/maverickgame/public_html/maverick_services/user_profile.php on line 19
+[07-Sep-2015 05:36:27 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 05:36:27 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 05:36:27 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 05:36:27 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[07-Sep-2015 05:36:42 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 05:36:42 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 05:36:42 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 05:36:42 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[07-Sep-2015 06:28:42 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:28:42 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:28:42 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:28:42 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[07-Sep-2015 06:31:07 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:31:07 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:31:07 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:31:07 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[07-Sep-2015 06:48:00 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:48:00 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:48:00 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:53:37 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:53:37 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:53:37 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:54:31 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:54:31 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:54:31 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:56:16 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:56:16 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:56:16 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:57:02 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:57:02 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:57:02 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 06:58:13 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 06:58:13 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 06:58:13 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[07-Sep-2015 07:03:08 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[07-Sep-2015 07:03:08 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[07-Sep-2015 07:03:08 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[08-Sep-2015 05:12:24 CST6CDT] PHP Notice:  Undefined index: user_id in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 5
+[08-Sep-2015 05:12:24 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[08-Sep-2015 05:12:24 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[08-Sep-2015 05:12:24 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[08-Sep-2015 05:12:24 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[09-Sep-2015 06:01:24 CST6CDT] PHP Notice:  Undefined variable: format in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 16
+[09-Sep-2015 06:01:24 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maverickgame/public_html/maverick_services/maverick-games.php:16) in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 21
+[09-Sep-2015 06:01:59 CST6CDT] PHP Notice:  Undefined variable: format in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 16
+[09-Sep-2015 06:02:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 20
+[09-Sep-2015 06:05:56 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 14
+[09-Sep-2015 06:06:40 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 14
+[09-Sep-2015 06:08:46 CST6CDT] PHP Notice:  Undefined variable: game in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 14
+[09-Sep-2015 06:08:46 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 14
+[09-Sep-2015 06:12:31 CST6CDT] PHP Notice:  Undefined index: game_id in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 13
+[09-Sep-2015 06:12:31 CST6CDT] PHP Notice:  Undefined index: game_name in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 14
+[09-Sep-2015 06:27:40 CST6CDT] PHP Notice:  Undefined index: user_id in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 5
+[09-Sep-2015 06:27:40 CST6CDT] PHP Notice:  Undefined index: name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 6
+[09-Sep-2015 06:27:40 CST6CDT] PHP Notice:  Undefined index: user_name in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 7
+[09-Sep-2015 06:27:40 CST6CDT] PHP Notice:  Undefined index: phone in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 8
+[09-Sep-2015 06:27:40 CST6CDT] PHP Notice:  Undefined index: profile_image in /home/maverickgame/public_html/maverick_services/edit_profile.php on line 9
+[09-Sep-2015 07:13:55 CST6CDT] PHP Notice:  Undefined variable: select in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 9
+[09-Sep-2015 07:13:55 CST6CDT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/maverickgame/public_html/maverick_services/maverick-games.php on line 9
+[10-Sep-2015 05:31:48 CST6CDT] PHP Notice:  Undefined index: game_id in /home/maverickgame/public_html/maverick_services/single-game.php on line 5
+[10-Sep-2015 05:31:48 CST6CDT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/maverickgame/public_html/maverick_services/single-game.php on line 5
+[10-Sep-2015 05:31:48 CST6CDT] PHP Fatal error:  Call to undefined function getGameWebScoreByScoreId() in /home/maverickgame/public_html/maverick_services/single-game.php on line 6
+[10-Sep-2015 05:33:20 CST6CDT] PHP Notice:  Undefined index: game_id in /home/maverickgame/public_html/maverick_services/single-game.php on line 5
+[10-Sep-2015 05:33:20 CST6CDT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/maverickgame/public_html/maverick_services/single-game.php on line 5
+[10-Sep-2015 06:55:27 CST6CDT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/maverickgame/public_html/maverick_services/single-game.php on line 7
+[10-Sep-2015 07:17:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:18:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:18:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:18:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:18:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:18:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:19:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[10-Sep-2015 07:21:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/maverickgame/public_html/dbconnection.php on line 602
+[14-Sep-2015 05:41:44 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[14-Sep-2015 05:41:44 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_login.php on line 6
+[14-Sep-2015 05:51:30 CST6CDT] PHP Notice:  Undefined index: email in /home/maverickgame/public_html/maverick_services/user_login.php on line 5
+[14-Sep-2015 05:51:30 CST6CDT] PHP Notice:  Undefined index: password in /home/maverickgame/public_html/maverick_services/user_login.php on line 6

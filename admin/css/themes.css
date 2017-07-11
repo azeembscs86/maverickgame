@@ -1,0 +1,407 @@
+/*
+ *  Document   : themes.css
+ *  Author     : pixelcave
+ *  Description: The themes stylesheet of the template. The classes can be used to
+ *  alter the color, the background color or the border color of an element individually
+ *
+ */
+
+/*
+=================================================================
+#0072bc - THEME DEFAULT
+=================================================================
+*/
+
+.themed-color-default {
+    color: #0072bc !important;
+}
+
+.block.block-themed.themed-default > .block-title,
+.themed-background-default {
+    background-color: #0072bc !important;
+}
+
+.block.block-themed.themed-default > .block-content,
+.themed-border-default {
+    border-color: #0072bc !important;
+}
+
+/*
+=================================================================
+#a41717 -THEME FIRE
+=================================================================
+*/
+
+.themed-color-fire {
+    color: #a41717 !important;
+}
+
+.block.block-themed.themed-fire > .block-title,
+.themed-background-fire {
+    background-color: #a41717 !important;
+}
+
+.block.block-themed.themed-fire > .block-content,
+.themed-border-fire {
+    border-color: #a41717 !important;
+}
+
+/*
+=================================================================
+#7e4910 -THEME WOOD
+=================================================================
+*/
+
+.themed-color-wood {
+    color: #7e4910 !important;
+}
+
+.block.block-themed.themed-wood > .block-title,
+.themed-background-wood {
+    background-color: #7e4910 !important;
+}
+
+.block.block-themed.themed-wood > .block-content,
+.themed-border-wood {
+    border-color: #7e4910 !important;
+}
+
+/*
+=================================================================
+#009fbc -THEME OCEAN
+=================================================================
+*/
+
+.themed-color-ocean {
+    color: #009fbc !important;
+}
+
+.block.block-themed.themed-ocean > .block-title,
+.themed-background-ocean {
+    background-color: #009fbc !important;
+}
+
+.block.block-themed.themed-ocean > .block-content,
+.themed-border-ocean {
+    border-color: #009fbc !important;
+}
+
+/*
+=================================================================
+#9fbc00 -THEME LEAF
+=================================================================
+*/
+
+.themed-color-leaf {
+    color: #9fbc00 !important;
+}
+
+.block.block-themed.themed-leaf > .block-title,
+.themed-background-leaf {
+    background-color: #9fbc00 !important;
+}
+
+.block.block-themed.themed-leaf > .block-content,
+.themed-border-leaf {
+    border-color: #9fbc00 !important;
+}
+
+/*
+=================================================================
+#8000bc -THEME TULIP
+=================================================================
+*/
+
+.themed-color-tulip {
+    color: #8000bc !important;
+}
+
+.block.block-themed.themed-tulip > .block-title,
+.themed-background-tulip {
+    background-color: #8000bc !important;
+}
+
+.block.block-themed.themed-tulip > .block-content,
+.themed-border-tulip {
+    border-color: #8000bc !important;
+}
+
+/*
+=================================================================
+#bc00a4 -THEME AMETHYST
+=================================================================
+*/
+
+.themed-color-amethyst {
+    color: #bc00a4 !important;
+}
+
+.block.block-themed.themed-amethyst > .block-title,
+.themed-background-amethyst {
+    background-color: #bc00a4 !important;
+}
+
+.block.block-themed.themed-amethyst > .block-content,
+.themed-border-amethyst {
+    border-color: #bc00a4 !important;
+}
+
+/*
+=================================================================
+#e27500 -THEME DAWN
+=================================================================
+*/
+
+.themed-color-dawn {
+    color: #e27500 !important;
+}
+
+.block.block-themed.themed-dawn > .block-title,
+.themed-background-dawn {
+    background-color: #e27500 !important;
+}
+
+.block.block-themed.themed-dawn > .block-content,
+.themed-border-dawn {
+    border-color: #e27500 !important;
+}
+
+/*
+=================================================================
+#716b6b -THEME CITY
+=================================================================
+*/
+
+.themed-color-city {
+    color: #716b6b !important;
+}
+
+.block.block-themed.themed-city > .block-title,
+.themed-background-city {
+    background-color: #716b6b !important;
+}
+
+.block.block-themed.themed-city > .block-content,
+.themed-border-city {
+    border-color: #716b6b !important;
+}
+
+/*
+=================================================================
+#b4b200 -THEME OIL
+=================================================================
+*/
+
+.themed-color-oil {
+    color: #b4b200 !important;
+}
+
+.block.block-themed.themed-oil > .block-title,
+.themed-background-oil {
+    background-color: #b4b200 !important;
+}
+
+.block.block-themed.themed-oil > .block-content,
+.themed-border-oil {
+    border-color: #b4b200 !important;
+}
+
+/*
+=================================================================
+#005f9c -THEME DEEPSEA
+=================================================================
+*/
+
+.themed-color-deepsea {
+    color: #005f9c !important;
+}
+
+.block.block-themed.themed-deepsea > .block-title,
+.themed-background-deepsea {
+    background-color: #005f9c !important;
+}
+
+.block.block-themed.themed-deepsea > .block-content,
+.themed-border-deepsea {
+    border-color: #005f9c !important;
+}
+
+/*
+=================================================================
+#999077 -THEME STONE
+=================================================================
+*/
+
+.themed-color-stone {
+    color: #999077 !important;
+}
+
+.block.block-themed.themed-stone > .block-title,
+.themed-background-stone {
+    background-color: #999077 !important;
+}
+
+.block.block-themed.themed-stone > .block-content,
+.themed-border-stone {
+    border-color: #999077 !important;
+}
+
+/*
+=================================================================
+#849a47 -THEME GRASS
+=================================================================
+*/
+
+.themed-color-grass {
+    color: #849a47 !important;
+}
+
+.block.block-themed.themed-grass > .block-title,
+.themed-background-grass {
+    background-color: #849a47 !important;
+}
+
+.block.block-themed.themed-grass > .block-content,
+.themed-border-grass {
+    border-color: #849a47 !important;
+}
+
+/*
+=================================================================
+#7a8c74 -THEME ARMY
+=================================================================
+*/
+
+.themed-color-army {
+    color: #7a8c74 !important;
+}
+
+.block.block-themed.themed-army > .block-title,
+.themed-background-army {
+    background-color: #7a8c74 !important;
+}
+
+.block.block-themed.themed-army > .block-content,
+.themed-border-army {
+    border-color: #7a8c74 !important;
+}
+
+/*
+=================================================================
+#cc8f3f -THEME AUTUMN
+=================================================================
+*/
+
+.themed-color-autumn {
+    color: #cc8f3f !important;
+}
+
+.block.block-themed.themed-autumn > .block-title,
+.themed-background-autumn {
+    background-color: #cc8f3f !important;
+}
+
+.block.block-themed.themed-autumn > .block-content,
+.themed-border-autumn {
+    border-color: #cc8f3f !important;
+}
+
+/*
+=================================================================
+#777 #333 -THEME NIGHT
+=================================================================
+*/
+
+.themed-color-night {
+    color: #777 !important;
+}
+
+.block.block-themed.themed-night > .block-title,
+.themed-background-night {
+    background-color: #333 !important;
+}
+
+.block.block-themed.themed-night > .block-content,
+.themed-border-night {
+    border-color: #333 !important;
+}
+
+/*
+=================================================================
+#4fbfbd #58d2d0 -THEME DIAMOND
+=================================================================
+*/
+
+.themed-color-diamond {
+    color: #4fbfbd !important;
+}
+
+.block.block-themed.themed-diamond > .block-title,
+.themed-background-diamond {
+    background-color: #58d2d0 !important;
+}
+
+.block.block-themed.themed-diamond > .block-content,
+.themed-border-diamond {
+    border-color: #58d2d0 !important;
+}
+
+/*
+=================================================================
+#de4343 -THEME CHERRY
+=================================================================
+*/
+
+.themed-color-cherry {
+    color: #de4343 !important;
+}
+
+.block.block-themed.themed-cherry > .block-title,
+.themed-background-cherry {
+    background-color: #de4343 !important;
+}
+
+.block.block-themed.themed-cherry > .block-content,
+.themed-border-cherry {
+    border-color: #de4343 !important;
+}
+
+/*
+=================================================================
+#d5b638 #e5c33a -THEME SUN
+=================================================================
+*/
+
+.themed-color-sun {
+    color: #d5b638 !important;
+}
+
+.block.block-themed.themed-sun > .block-title,
+.themed-background-sun {
+    background-color: #e5c33a !important;
+}
+
+.block.block-themed.themed-sun > .block-content,
+.themed-border-sun {
+    border-color: #e5c33a !important;
+}
+
+/*
+=================================================================
+#47637f -THEME ASPHALT
+=================================================================
+*/
+
+.themed-color-asphalt {
+    color: #47637f !important;
+}
+
+.block.block-themed.themed-asphalt > .block-title,
+.themed-background-asphalt {
+    background-color: #47637f !important;
+}
+
+.block.block-themed.themed-asphalt > .block-content,
+.themed-border-asphalt {
+    border-color: #47637f !important;
+}
